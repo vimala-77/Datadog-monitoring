@@ -3,8 +3,8 @@ kind: DatadogAgent
 metadata:
   name: datadog
 datadog:
-  apiKey: 7f402ff915aebc9b39fe9cb5b79a0b51
-  appKey: e7167153856230a1cf4e7db638e688e3956769ac
+  apiKey: ***********
+  appKey: ********
   site: us5.datadoghq.com
   logs:
     enabled: true
